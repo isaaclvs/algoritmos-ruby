@@ -1,0 +1,1 @@
+Link da página de exercícios: https://www.dio.me/articles/lista-de-exercicios-para-treinar-logica-de-programacao
